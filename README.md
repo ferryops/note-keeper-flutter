@@ -26,6 +26,7 @@
 
 ## Struktur Direktori
 
+```
 lib/
 ├── db/
 │ └── note_database.dart # Mengelola koneksi dan operasi SQLite
@@ -39,6 +40,7 @@ lib/
 ├── widgets/
 │ └── note_card.dart # Widget untuk menampilkan catatan dalam bentuk kartu
 └── main.dart # Titik masuk utama aplikasi Flutter
+```
 
 ## Cara Menjalankan Aplikasi
 
